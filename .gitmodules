@@ -1,0 +1,6 @@
+[submodule "job-search-configuracion-inicial-gradle"]
+	path = job-search-configuracion-inicial-gradle
+	url = git@github.com:JesusRivera98/Gradles.git
+[submodule "JavaSE-Functional-platzi-job-search"]
+	path = JavaSE-Functional-platzi-job-search
+	url = git@github.com:JesusRivera98/JavaSEFunctionalPlatzi.git
